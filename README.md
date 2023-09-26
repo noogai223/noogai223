@@ -1,6 +1,6 @@
 ```
 i code
-  NOTHINK
+  NOTHING
 
           i DRAW
 
